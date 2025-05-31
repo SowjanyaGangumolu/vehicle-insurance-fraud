@@ -46,4 +46,7 @@ lightgbm
 catboost
 tensorflow
 torch
-plotly
+plotly 
+```
+📄 Read the full [Project Report](docs/Project_Report.pdf)
+
