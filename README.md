@@ -48,5 +48,5 @@ tensorflow
 torch
 plotly 
 ```
-📄 Read the full [Project Report](docs/Project_Report.pdf)
+
 
